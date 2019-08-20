@@ -6,12 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2019-08-20
+## [0.1.0] - 2019-08-20
 ### Added
-- First release of React\Parcel scaffolding
-- Includes support for Prettier and ESLint
 
 ### Changed
+- Updated README, LICENSE and CHANGELOG files
+- Changed .gitignore file to exclude  code_samples directory from repository
+- src\components\app\app.js and public\index.html updated to remove boilerplate code 
 
 ### Fixed
 

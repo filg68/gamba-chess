@@ -97,7 +97,7 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-# .gitignore
+.gitignore
 
 # Node modules
 node_modules
@@ -105,4 +105,4 @@ node_modules
 # Directories to ignore
 .cache
 dist
-#code_samples
+code_samples

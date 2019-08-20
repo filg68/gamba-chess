@@ -1,19 +1,13 @@
-# Title
+# Gamba Chess
 
-![banner]()
-
-![badge]()
-![badge]()
 [![license](https://img.shields.io/apm/l/vim-mode)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-green.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
 
-> This is an example file with maximal choices selected.
-
-This is a long description.
+Gamba Chess is an online chess platform that allows two players to play chess while the rules of chess are enforced.
+It does not provide a chess engine and games are not analzyed.
 
 ## Table of Contents
 
-- [Security](#security)
 - [Features](#features)
 - [Background](#background)
 - [Install](#install)
@@ -25,58 +19,48 @@ This is a long description.
 - [Contributors](#contributors)
 - [License](#license)
 
-## Security
-
-### Any optional sections
-
 ## Features
 
 ## Background
 
-### Any optional sections
+This project was suggested as part of the group project for the UofT Online Bootcamp.  The group was not able to complete
+the project and so I decided to forge ahead on my own as it seemed like a good way to learn and consolidate coding skills.
 
 ## Install
 
-This module depends upon a knowledge of [Markdown]().
+This application depends upon a knowledge of [React](https://reactjs.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
+ [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-```
-```
+To install the code on your machine you can:
+
+1. Create a [fork](https://help.github.com/en/articles/fork-a-repo) of this repository and pull the code down to your 
+local repo.
+
+2. Clone it to your desktop using the following git command:
+    ```git
+    $: git clone https://github.com/filg68/gamba-chess.git my_directory 
+    ```
+3. Download and extract the zipfile of this repo's contents to your local desktop.
+
 ## Deployment
+
+This application is not currently deployed on the web.
 
 ## Database
 
-### Any optional sections
-
 ## Usage
-
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
 
 ## API
 
-### Any optional sections
-
-## More optional sections
-
 ## Contributing
 
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional 
+This application is not accepting Pull Requests as it is a personal project, but feel free to fork the code
+and go nuts with your own implementation.
 
 ## Contributors
 
-**Name** - *role* - (link to portfolio or other repo)
+**Fil Gambatesa** - *Author* - www.filgambatesa.com
 
 ## License
 
-Replace with appropriate license file.  Update LICENSE with copyright holder info
 [MIT](../LICENSE)
